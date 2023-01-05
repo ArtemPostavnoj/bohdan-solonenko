@@ -1,3 +1,6 @@
+body{
+    background-color:antiquewhite;
+}
 .title{
     text-align: center;
 }
@@ -5,5 +8,15 @@
     font-size: 15px;
 }
 .post{
+    text-align: center;
+}
+.list-item{
+    border-bottom: 1px solid black;
+}
+.smm{
+    border-top: 1px solid black; 
+}
+.link-picture{
+    font-size: 15px;  
     text-align: center;
 }
